@@ -1,0 +1,6 @@
+c:\users\matvey\documents\visual studio 2015\Projects\Var13_Zad2\Var13_Zad2\bin\Debug\Var13_Zad2.exe.config
+c:\users\matvey\documents\visual studio 2015\Projects\Var13_Zad2\Var13_Zad2\bin\Debug\Var13_Zad2.exe
+c:\users\matvey\documents\visual studio 2015\Projects\Var13_Zad2\Var13_Zad2\bin\Debug\Var13_Zad2.pdb
+c:\users\matvey\documents\visual studio 2015\Projects\Var13_Zad2\Var13_Zad2\obj\Debug\Var13_Zad2.csprojResolveAssemblyReference.cache
+c:\users\matvey\documents\visual studio 2015\Projects\Var13_Zad2\Var13_Zad2\obj\Debug\Var13_Zad2.exe
+c:\users\matvey\documents\visual studio 2015\Projects\Var13_Zad2\Var13_Zad2\obj\Debug\Var13_Zad2.pdb

@@ -1,0 +1,6 @@
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer1\bin\Debug\Primer1.exe.config
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer1\bin\Debug\Primer1.exe
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer1\bin\Debug\Primer1.pdb
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer1\obj\Debug\Primer1.csprojResolveAssemblyReference.cache
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer1\obj\Debug\Primer1.exe
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer1\obj\Debug\Primer1.pdb

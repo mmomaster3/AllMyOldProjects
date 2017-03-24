@@ -1,0 +1,9 @@
+c:\users\matvey\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\matvey\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\matvey\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\matvey\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\matvey\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\matvey\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Dijkstra\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Dijkstra\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Dijkstra\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

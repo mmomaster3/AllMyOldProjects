@@ -1,0 +1,35 @@
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\bin\Debug\Payment_terminal.exe.config
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\bin\Debug\Payment_terminal.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\bin\Debug\Payment_terminal.pdb
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal.csprojResolveAssemblyReference.cache
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Icons.baml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\LastName.g.cs
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\MainWindow.g.cs
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Operators.g.cs
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Pay.g.cs
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Providers.g.cs
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Services.g.cs
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\TV.g.cs
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\App.g.cs
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal_MarkupCompile.cache
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal_MarkupCompile.lref
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\App.baml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\LastName.baml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\MainWindow.baml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Operators.baml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Pay.baml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Providers.baml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Services.baml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Styles.baml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\TV.baml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal.g.resources
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal.Properties.Resources.resources
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal.csproj.GenerateResource.Cache
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal.pdb
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal_Content.g.cs
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Video.g.cs
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Video.baml
+D:\Matthew\Documents\Visual Studio 2015\Projects\_OLD\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\bin\Debug\Payment_terminal.exe.config
+D:\Matthew\Documents\Visual Studio 2015\Projects\_OLD\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal.exe
+D:\Matthew\Documents\Visual Studio 2015\Projects\_OLD\Visual Studio 2015\Projects\Payment_terminal\Payment_terminal\obj\Debug\Payment_terminal.pdb

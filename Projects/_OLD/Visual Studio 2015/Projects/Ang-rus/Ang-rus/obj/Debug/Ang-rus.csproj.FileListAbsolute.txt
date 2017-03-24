@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Ang-rus\Ang-rus\bin\Debug\Ang-rus.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Ang-rus\Ang-rus\bin\Debug\Ang-rus.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Ang-rus\Ang-rus\bin\Debug\Ang-rus.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Ang-rus\Ang-rus\obj\Debug\Ang-rus.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Ang-rus\Ang-rus\obj\Debug\Ang-rus.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Ang-rus\Ang-rus\obj\Debug\Ang-rus.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Ang-rus\Ang-rus\bin\Debug\System.Web.Mvc.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Ang-rus\Ang-rus\bin\Debug\System.Web.Mvc.xml
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Ang-rus\Ang-rus\bin\Debug\Ang-rus.exe.config
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Ang-rus\Ang-rus\obj\Debug\Ang-rus.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\Ang-rus\Ang-rus\obj\Debug\Ang-rus.pdb

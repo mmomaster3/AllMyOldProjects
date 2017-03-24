@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\KBP\KBP\bin\Release\KBP.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\KBP\KBP\bin\Release\KBP.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\KBP\KBP\bin\Release\KBP.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\KBP\KBP\obj\Release\KBP.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\KBP\KBP\obj\Release\KBP.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\KBP\KBP\obj\Release\KBP.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\KBP\KBP\obj\Release\KBP.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\KBP\KBP\obj\Release\KBP.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\KBP\KBP\obj\Release\KBP.csprojResolveAssemblyReference.cache

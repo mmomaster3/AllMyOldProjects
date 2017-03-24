@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\Взрываем страну\Взрываем страну\obj\x86\Debug\Delegate.exe
+C:\Users\Lenovo\Desktop\Взрываем страну\Взрываем страну\obj\x86\Debug\Delegate.pdb
+C:\Users\Lenovo\Desktop\Взрываем страну\Взрываем страну\bin\Debug\Delegate.exe
+C:\Users\Lenovo\Desktop\Взрываем страну\Взрываем страну\bin\Debug\Delegate.pdb
+C:\Users\Lenovo\Desktop\Взрываем страну\Взрываем страну\obj\x86\Debug\Delegate.csprojResolveAssemblyReference.cache

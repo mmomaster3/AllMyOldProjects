@@ -1,0 +1,6 @@
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\ConsoleApplication1\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\ConsoleApplication1\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

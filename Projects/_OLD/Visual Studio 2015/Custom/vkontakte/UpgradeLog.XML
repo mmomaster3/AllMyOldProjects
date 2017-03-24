@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Vkontakte">
+</Property><Property Name="Файл решения" Value="C:\Users\801406\Desktop\1\Vkontakte.sln">
+</Property><Property Name="Date" Value="22 июля 2012 г.">
+</Property><Property Name="Time" Value="20:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Vkontakte.sln" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\Vkontakte.sln">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Vkontakte.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\801406\Desktop\1\Backup\Vkontakte.csproj">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Vkontakte.csproj.user" Description="Резервная копия проекта успешно создана как C:\Users\801406\Desktop\1\Backup\Vkontakte.csproj.user">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="AboutBox1.cs" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="AboutBox1.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Form1.cs" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Form1.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Program.cs" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="2" Project="Vkontakte" Source="ramz.bmp" Description="Не удалось создать резервную копию файла C:\Users\801406\Desktop\1\Backup\ramz.bmp">
+</Event><Event ErrorLevel="2" Project="Vkontakte" Source="x_d45d20f2.bmp" Description="Не удалось создать резервную копию файла C:\Users\801406\Desktop\1\Backup\x_d45d20f2.bmp">
+</Event><Event ErrorLevel="2" Project="Vkontakte" Source="opr010OP.ico" Description="Не удалось создать резервную копию файла C:\Users\801406\Desktop\1\Backup\opr010OP.ico">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="AboutBox1.resx" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Form1.resx" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\801406\Desktop\1\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Vkontakte.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Vkontakte" Source="Vkontakte.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Vkontakte.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Vkontakte.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Vkontakte" Source="Vkontakte.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

@@ -1,0 +1,6 @@
+d:\onekid\documents\visual studio 2015\Projects\MathMod\MathMod\bin\Debug\MathMod.exe.config
+d:\onekid\documents\visual studio 2015\Projects\MathMod\MathMod\bin\Debug\MathMod.exe
+d:\onekid\documents\visual studio 2015\Projects\MathMod\MathMod\bin\Debug\MathMod.pdb
+d:\onekid\documents\visual studio 2015\Projects\MathMod\MathMod\obj\Debug\MathMod.csprojResolveAssemblyReference.cache
+d:\onekid\documents\visual studio 2015\Projects\MathMod\MathMod\obj\Debug\MathMod.exe
+d:\onekid\documents\visual studio 2015\Projects\MathMod\MathMod\obj\Debug\MathMod.pdb

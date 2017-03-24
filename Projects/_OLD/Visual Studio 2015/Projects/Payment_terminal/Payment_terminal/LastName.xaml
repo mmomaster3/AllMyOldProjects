@@ -1,0 +1,123 @@
+﻿<Window x:Class="Payment_terminal.LastName"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Payment_terminal"
+        mc:Ignorable="d"
+        Title="" WindowState="Maximized" WindowStyle="None" Height="519" Width="916.5">
+    <!--Width="1600" Height="900"-->
+    <Grid RenderTransformOrigin="0.503,0.486">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="381*"/>
+            <ColumnDefinition Width="73*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF04305B" Offset="0"/>
+                <GradientStop Color="{DynamicResource {x:Static SystemColors.HighlightColorKey}}" Offset="0.971"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+
+        <Rectangle Fill="#FF64E46A" Height="124" Margin="226,93,10,0" Stroke="Black" VerticalAlignment="Top" StrokeDashCap="Round" RadiusY="54.5" RadiusX="54.5" Opacity="0.5" Grid.ColumnSpan="2"/>
+
+
+        <Button Style="{StaticResource InformButton}" x:Name="button_prev" Content="На главную" HorizontalAlignment="Left" Width="160" Margin="10,0,0,10" Click="button_prev_Click" Height="45" VerticalAlignment="Bottom"/>
+        <Rectangle HorizontalAlignment="Left" Height="257" Stroke="Black" VerticalAlignment="Top" Width="202">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF3F88C5" Offset="0"/>
+                    <GradientStop Color="#FFE0EAF5" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle Fill="#FFF4F4F5" Height="33" Margin="268,111,0,0" Stroke="Black" VerticalAlignment="Top" HorizontalAlignment="Left" Width="236"/>
+        <Rectangle HorizontalAlignment="Left" Height="40" Stroke="Black" VerticalAlignment="Top" Width="202" Fill="#8C0CAA13"/>
+        <Label x:Name="label" Content="Внесенная сумма" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Width="121" Height="35"/>
+        <Label x:Name="label_Copy" Content="%" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Width="22" Height="35" Margin="180,0,0,0"/>
+        <Rectangle HorizontalAlignment="Left" Height="257" Margin="161,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+        <Label x:Name="label1" Content="1-4999 руб." HorizontalAlignment="Left" Margin="0,40,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="94"/>
+        <Label x:Name="label1_Copy" Content="5000-50000 руб." HorizontalAlignment="Left" Margin="0,71,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="128"/>
+        <Label x:Name="label1_Copy1" Content="50001-250000 руб." HorizontalAlignment="Left" Margin="0,102,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="146"/>
+        <Label x:Name="label1_Copy2" Content="250001-400000 руб." HorizontalAlignment="Left" Margin="0,133,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="154"/>
+        <Label x:Name="label1_Copy3" Content="400001-600000 руб." HorizontalAlignment="Left" Margin="0,164,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="154"/>
+        <Label x:Name="label1_Copy4" Content="600001-750000 руб." HorizontalAlignment="Left" Margin="0,195,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="154"/>
+        <Label x:Name="label1_Copy5" Content="больше 750001 руб." HorizontalAlignment="Left" Margin="0,226,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="157"/>
+        <Label x:Name="label1_Copy6" Content="9" HorizontalAlignment="Left" Margin="180,40,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="19"/>
+        <Label x:Name="label1_Copy7" Content="8" HorizontalAlignment="Left" Margin="180,71,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="19"/>
+        <Label x:Name="label1_Copy8" Content="7" HorizontalAlignment="Left" Margin="180,102,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="19"/>
+        <Label x:Name="label1_Copy9" Content="6" HorizontalAlignment="Left" Margin="180,133,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="19"/>
+        <Label x:Name="label1_Copy10" Content="5" HorizontalAlignment="Left" Margin="180,164,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="19"/>
+        <Label x:Name="label1_Copy11" Content="4" HorizontalAlignment="Left" Margin="180,195,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="19"/>
+        <Label x:Name="label1_Copy12" Content="3" HorizontalAlignment="Left" Margin="180,226,0,0" VerticalAlignment="Top" FontSize="16" Height="31" Width="19"/>
+        <Rectangle Fill="#FF64E46A" Height="61" Margin="226,0,0,0" Stroke="Black" VerticalAlignment="Top" Opacity="0.5" StrokeDashCap="Round" RadiusY="54.5" RadiusX="54.5" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="658"/>
+        <Rectangle Fill="#FFF4F4F5" Height="41" Margin="255,10,0,0" Stroke="Black" VerticalAlignment="Top" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="610"/>
+        <Label x:Name="label1_Copy13" Content="Внесенная сумма:" HorizontalAlignment="Left" Margin="255,13,0,0" VerticalAlignment="Top" FontSize="16" Height="33" Width="141"/>
+        <Label x:Name="BalansRubLabel" Content="0" Margin="401,13,239,0" VerticalAlignment="Top" FontSize="16" Height="33"/>
+        <Button Style="{StaticResource InformButton}" x:Name="button_next" Content="Оплатить" Margin="0,0,10,10" Height="45" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="160" Click="button_next_Click" Grid.ColumnSpan="2"/>
+        <Label x:Name="label1_Copy14" Content="Информация о платеже:" HorizontalAlignment="Left" Margin="268,111,0,0" VerticalAlignment="Top" FontSize="16" Height="33" Width="190"/>
+        <Rectangle Fill="#FFF4F4F5" Height="41" Margin="255,154,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="137"/>
+        <Label x:Name="label_namePay" Content="Фамилия:" HorizontalAlignment="Left" Margin="255,154,0,0" VerticalAlignment="Top" FontSize="16" Height="33" Width="137"/>
+        <TextBox x:Name="textBox_FIO" Height="41" Margin="392,154,3,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="22" BorderBrush="White"/>
+        <Button Style="{StaticResource InformButton}" x:Name="button_backspase" Content="DELETE" Margin="2,154,43,0" Grid.Column="1" Height="41" VerticalAlignment="Top" Click="button_backspase_Click"/>
+        <Grid Margin= "250,250,78,92">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Rectangle Fill="#FF64E46A" Stroke="Black" Opacity="0.5" StrokeDashCap="Round" RadiusY="54.5" RadiusX="54.5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.RowSpan="4" Grid.ColumnSpan="13" Margin="-15"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_а" Content="А" HorizontalAlignment="stretch" VerticalAlignment="Stretch" Grid.Column="4" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_б" Content="Б" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="9" Grid.Row="2" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_в" Content="В" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="3" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_г" Content="Г" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="7" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_д" Content="Д" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="9" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_е" Content="Е" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="5" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_ё" Content="Ё" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="0" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_ж" Content="Ж" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="10" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_з" Content="З" HorizontalAlignment="Stretch" VerticalAlignment="stretch" Grid.Column="10" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_и" Content="И" HorizontalAlignment="stretch" VerticalAlignment="Stretch" Grid.Column="6" Grid.Row="2" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_й" Content="Й" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="1" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_к" Content="К" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="4" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_л" Content="Л" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="8" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_м" Content="М" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="5" Grid.Row="2" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_н" Content="Н" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="6" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_о" Content="О" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="7" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_п" Content="П" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="5" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_р" Content="Р" HorizontalAlignment="Stretch" VerticalAlignment="stretch" Grid.Column="6" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_с" Content="С" HorizontalAlignment="stretch" VerticalAlignment="Stretch" Grid.Column="4" Grid.Row="2" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_т" Content="Т" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="7" Grid.Row="2" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_у" Content="У" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="3" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_ф" Content="Ф" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="1" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_х" Content="Х" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="11" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_ц" Content="Ц" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="2" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_ч" Content="Ч" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="3" Grid.Row="2" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_ш" Content="Ш" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="8" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_щ" Content="Щ" HorizontalAlignment="Stretch" VerticalAlignment="stretch" Grid.Column="9" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_ъ" Content="Ъ" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="12" Grid.Row="0" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_ы" Content="Ы" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="2" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_ь" Content="Ь" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="8" Grid.Row="2" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_э" Content="Э" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="11" Grid.Row="1" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_ю" Content="Ю" HorizontalAlignment="stretch" VerticalAlignment="stretch" Grid.Column="10" Grid.Row="2" Click="button_letter_Click"/>
+            <Button Style="{StaticResource InformButton}" x:Name="button_я" Content="Я" HorizontalAlignment="Stretch" VerticalAlignment="stretch" Grid.Column="2" Grid.Row="2" Click="button_letter_Click"/>
+        </Grid>
+        <Label x:Name="RubLabel" Content="руб." HorizontalAlignment="Left" Margin="462,13,0,0" VerticalAlignment="Top" FontSize="16" Height="33" Width="42" RenderTransformOrigin="1.119,0.576"/>
+        <Label x:Name="label_number" Content="Оплата по номеру:" Margin="530,13,2,0" VerticalAlignment="Top" FontSize="16" Height="33"/>
+    </Grid>
+</Window>

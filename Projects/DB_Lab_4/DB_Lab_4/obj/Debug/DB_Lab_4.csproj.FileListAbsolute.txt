@@ -1,0 +1,6 @@
+d:\matthew\documents\visual studio 2015\Projects\DB_Lab_4\DB_Lab_4\bin\Debug\DB_Lab_4.exe.config
+d:\matthew\documents\visual studio 2015\Projects\DB_Lab_4\DB_Lab_4\bin\Debug\DB_Lab_4.exe
+d:\matthew\documents\visual studio 2015\Projects\DB_Lab_4\DB_Lab_4\bin\Debug\DB_Lab_4.pdb
+d:\matthew\documents\visual studio 2015\Projects\DB_Lab_4\DB_Lab_4\obj\Debug\DB_Lab_4.csprojResolveAssemblyReference.cache
+d:\matthew\documents\visual studio 2015\Projects\DB_Lab_4\DB_Lab_4\obj\Debug\DB_Lab_4.exe
+d:\matthew\documents\visual studio 2015\Projects\DB_Lab_4\DB_Lab_4\obj\Debug\DB_Lab_4.pdb

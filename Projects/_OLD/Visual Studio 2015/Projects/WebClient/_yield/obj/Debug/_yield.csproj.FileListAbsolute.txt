@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\_yield\bin\Debug\_yield.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\_yield\bin\Debug\_yield.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\_yield\bin\Debug\_yield.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\_yield\obj\Debug\_yield.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\_yield\obj\Debug\_yield.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\_yield\obj\Debug\_yield.pdb

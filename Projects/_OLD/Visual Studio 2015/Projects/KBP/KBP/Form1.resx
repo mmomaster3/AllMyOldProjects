@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBoxInfo.Text" xml:space="preserve">
+    <value>&lt;option value="23"&gt;т-095&lt;/option&gt;
+&lt;option value="24"&gt;т-094&lt;/option&gt;
+&lt;option value="25"&gt;т-093&lt;/option&gt;
+&lt;option value="27"&gt;т-091&lt;/option&gt;
+&lt;option value="28"&gt;т-191&lt;/option&gt;
+&lt;option value="29"&gt;т-192&lt;/option&gt;
+&lt;option value="30"&gt;т-193&lt;/option&gt;
+&lt;option value="31"&gt;т-194&lt;/option&gt;
+&lt;option value="32"&gt;т-195&lt;/option&gt;
+&lt;option value="33"&gt;т-116&lt;/option&gt;
+&lt;option value="34"&gt;т-117&lt;/option&gt;
+&lt;option value="35"&gt;т-291&lt;/option&gt;
+&lt;option value="36"&gt;т-292&lt;/option&gt;
+&lt;option value="37"&gt;т-293&lt;/option&gt;
+&lt;option value="38"&gt;т-294&lt;/option&gt;
+&lt;option value="39"&gt;т-295&lt;/option&gt;
+&lt;option value="40"&gt;т-216&lt;/option&gt;
+&lt;option value="41"&gt;т-217&lt;/option&gt;
+&lt;option value="53"&gt;э-092&lt;/option&gt;
+&lt;option value="54"&gt;э-091&lt;/option&gt;
+&lt;option value="55"&gt;э-191&lt;/option&gt;
+&lt;option value="56"&gt;э-192&lt;/option&gt;
+&lt;option value="57"&gt;э-113&lt;/option&gt;
+&lt;option value="58"&gt;э-291&lt;/option&gt;
+&lt;option value="59"&gt;э-292&lt;/option&gt;
+&lt;option value="60"&gt;э-213&lt;/option&gt;
+&lt;option value="72"&gt;к-091&lt;/option&gt;
+&lt;option value="73"&gt;к-191&lt;/option&gt;
+&lt;option value="75"&gt;к-291&lt;/option&gt;
+&lt;option value="76"&gt;к-212&lt;/option&gt;
+&lt;option value="212"&gt;д-302&lt;/option&gt;
+&lt;option value="211"&gt;д-301&lt;/option&gt;
+&lt;option value="120"&gt;п-201&lt;/option&gt;
+&lt;option value="121"&gt;п-202&lt;/option&gt;
+&lt;option value="122"&gt;п-203&lt;/option&gt;
+&lt;option value="123"&gt;б-201&lt;/option&gt;
+&lt;option value="124"&gt;б-202&lt;/option&gt;
+&lt;option value="125"&gt;э-201&lt;/option&gt;
+&lt;option value="126"&gt;э-202&lt;/option&gt;
+&lt;option value="210"&gt;б-302&lt;/option&gt;
+&lt;option value="128"&gt;к-201&lt;/option&gt;
+&lt;option value="129"&gt;к-202&lt;/option&gt;
+&lt;option value="209"&gt;б-301&lt;/option&gt;
+&lt;option value="143"&gt;б-092&lt;/option&gt;
+&lt;option value="144"&gt;б-091&lt;/option&gt;
+&lt;option value="145"&gt;б-191&lt;/option&gt;
+&lt;option value="146"&gt;б-113&lt;/option&gt;
+&lt;option value="147"&gt;б-291&lt;/option&gt;
+&lt;option value="148"&gt;д-291&lt;/option&gt;
+&lt;option value="149"&gt;б-212&lt;/option&gt;
+&lt;option value="168"&gt;п-094&lt;/option&gt;
+&lt;option value="169"&gt;п-093&lt;/option&gt;
+&lt;option value="170"&gt;п-092&lt;/option&gt;
+&lt;option value="172"&gt;п-191&lt;/option&gt;
+&lt;option value="173"&gt;п-192&lt;/option&gt;
+&lt;option value="174"&gt;п-193&lt;/option&gt;
+&lt;option value="175"&gt;п-194&lt;/option&gt;
+&lt;option value="176"&gt;п-115&lt;/option&gt;
+&lt;option value="177"&gt;п-116&lt;/option&gt;
+&lt;option value="178"&gt;п-291&lt;/option&gt;
+&lt;option value="179"&gt;п-292&lt;/option&gt;
+&lt;option value="180"&gt;п-293&lt;/option&gt;
+&lt;option value="181"&gt;п-294&lt;/option&gt;
+&lt;option value="182"&gt;п-215&lt;/option&gt;
+&lt;option value="183"&gt;п-216&lt;/option&gt;
+&lt;option value="186"&gt;п-392&lt;/option&gt;
+&lt;option value="185"&gt;п-391&lt;/option&gt;
+&lt;option value="187"&gt;п-393&lt;/option&gt;
+&lt;option value="188"&gt;п-394&lt;/option&gt;
+&lt;option value="189"&gt;п-315&lt;/option&gt;
+&lt;option value="190"&gt;п-316&lt;/option&gt;
+&lt;option value="191"&gt;д-391&lt;/option&gt;
+&lt;option value="192"&gt;д-392&lt;/option&gt;
+&lt;option value="193"&gt;д-312&lt;/option&gt;
+&lt;option value="195"&gt;э-391&lt;/option&gt;
+&lt;option value="196"&gt;э-392&lt;/option&gt;
+&lt;option value="197"&gt;б-391&lt;/option&gt;
+&lt;option value="198"&gt;б-312&lt;/option&gt;
+&lt;option value="199"&gt;э-313&lt;/option&gt;
+&lt;option value="200"&gt;к-313&lt;/option&gt;
+&lt;option value="201"&gt;т-391&lt;/option&gt;
+&lt;option value="202"&gt;т-392&lt;/option&gt;
+&lt;option value="203"&gt;т-393&lt;/option&gt;
+&lt;option value="204"&gt;т-394&lt;/option&gt;
+&lt;option value="205"&gt;т-395&lt;/option&gt;
+&lt;option value="206"&gt;т-316&lt;/option&gt;
+&lt;option value="207"&gt;т-317&lt;/option&gt;
+&lt;option value="208"&gt;к-292&lt;/option&gt;
+&lt;option value="213"&gt;к-301&lt;/option&gt;
+&lt;option value="214"&gt;к-302&lt;/option&gt;
+&lt;option value="215"&gt;п-301&lt;/option&gt;
+&lt;option value="216"&gt;п-302&lt;/option&gt;
+&lt;option value="217"&gt;п-303&lt;/option&gt;
+&lt;option value="218"&gt;п-304&lt;/option&gt;
+&lt;option value="219"&gt;э-301&lt;/option&gt;
+&lt;option value="220"&gt;э-302&lt;/option&gt;
+&lt;option value="221"&gt;э-303&lt;/option&gt;
+&lt;option value="239"&gt;т-491&lt;/option&gt;
+&lt;option value="240"&gt;т-492&lt;/option&gt;
+&lt;option value="241"&gt;т-493&lt;/option&gt;
+&lt;option value="242"&gt;т-494&lt;/option&gt;
+&lt;option value="244"&gt;т-416&lt;/option&gt;
+&lt;option value="245"&gt;т-417&lt;/option&gt;
+&lt;option value="222"&gt;п-491&lt;/option&gt;
+&lt;option value="223"&gt;п-492&lt;/option&gt;
+&lt;option value="225"&gt;п-494&lt;/option&gt;
+&lt;option value="226"&gt;п-415&lt;/option&gt;
+&lt;option value="227"&gt;п-416&lt;/option&gt;
+&lt;option value="224"&gt;п-493&lt;/option&gt;
+&lt;option value="229"&gt;д-492&lt;/option&gt;
+&lt;option value="230"&gt;д-413&lt;/option&gt;
+&lt;option value="262"&gt;к-591&lt;/option&gt;
+&lt;option value="259"&gt;э-591&lt;/option&gt;
+&lt;option value="233"&gt;э-491&lt;/option&gt;
+&lt;option value="234"&gt;э-492&lt;/option&gt;
+&lt;option value="235"&gt;б-491&lt;/option&gt;
+&lt;option value="236"&gt;б-412&lt;/option&gt;
+&lt;option value="237"&gt;э-413&lt;/option&gt;
+&lt;option value="238"&gt;к-413&lt;/option&gt;
+&lt;option value="246"&gt;э-401&lt;/option&gt;
+&lt;option value="247"&gt;э-402&lt;/option&gt;
+&lt;option value="248"&gt;к-401&lt;/option&gt;
+&lt;option value="249"&gt;к-402&lt;/option&gt;
+&lt;option value="250"&gt;п-401&lt;/option&gt;
+&lt;option value="251"&gt;п-402&lt;/option&gt;
+&lt;option value="252"&gt;п-403&lt;/option&gt;
+&lt;option value="253"&gt;п-404&lt;/option&gt;
+&lt;option value="254"&gt;б-401&lt;/option&gt;
+&lt;option value="255"&gt;д-401&lt;/option&gt;
+&lt;option value="256"&gt;д-402&lt;/option&gt;
+&lt;option value="243"&gt;т-495&lt;/option&gt;
+&lt;option value="257"&gt;к-392&lt;/option&gt;
+&lt;option value="171"&gt;п-091&lt;/option&gt;
+&lt;option value="260"&gt;э-592&lt;/option&gt;
+&lt;option value="261"&gt;э-513&lt;/option&gt;
+&lt;option value="263"&gt;к-491&lt;/option&gt;
+&lt;option value="264"&gt;к-492&lt;/option&gt;
+&lt;option value="265"&gt;б-591&lt;/option&gt;
+&lt;option value="266"&gt;б-512&lt;/option&gt;
+&lt;option value="267"&gt;д-591&lt;/option&gt;
+&lt;option value="268"&gt;д-592&lt;/option&gt;
+&lt;option value="269"&gt;д-513&lt;/option&gt;
+&lt;option value="270"&gt;п-591&lt;/option&gt;
+&lt;option value="271"&gt;п-592&lt;/option&gt;
+&lt;option value="272"&gt;п-593&lt;/option&gt;
+&lt;option value="273"&gt;п-594&lt;/option&gt;
+&lt;option value="274"&gt;п-515&lt;/option&gt;
+&lt;option value="275"&gt;п-516&lt;/option&gt;
+&lt;option value="276"&gt;т-591&lt;/option&gt;
+&lt;option value="277"&gt;т-592&lt;/option&gt;
+&lt;option value="278"&gt;т-593&lt;/option&gt;
+&lt;option value="279"&gt;т-594&lt;/option&gt;
+&lt;option value="280"&gt;т-516&lt;/option&gt;
+&lt;option value="281"&gt;т-517&lt;/option&gt;
+&lt;option value="282"&gt;э-501&lt;/option&gt;
+&lt;option value="283"&gt;б-501&lt;/option&gt;
+&lt;option value="284"&gt;д-501&lt;/option&gt;
+&lt;option value="285"&gt;к-501&lt;/option&gt;
+&lt;option value="286"&gt;п-501&lt;/option&gt;
+&lt;option value="287"&gt;п-502&lt;/option&gt;
+&lt;option value="288"&gt;п-503&lt;/option&gt;
+&lt;option value="289"&gt;п-504&lt;/option&gt;
+</value>
+  </data>
+</root>

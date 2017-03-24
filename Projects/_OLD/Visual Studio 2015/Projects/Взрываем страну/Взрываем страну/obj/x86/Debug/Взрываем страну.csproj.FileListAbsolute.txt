@@ -1,0 +1,10 @@
+E:\Взрываем страну\Взрываем страну\bin\Debug\Взрываем страну.exe
+E:\Взрываем страну\Взрываем страну\bin\Debug\Взрываем страну.pdb
+E:\Взрываем страну\Взрываем страну\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Взрываем страну\Взрываем страну\obj\x86\Debug\Взрываем страну.exe
+E:\Взрываем страну\Взрываем страну\obj\x86\Debug\Взрываем страну.pdb
+C:\Users\Lenovo\Desktop\Взрываем страну\Взрываем страну\obj\x86\Debug\Взрываем страну.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Взрываем страну\Взрываем страну\bin\Debug\Delegate.exe
+C:\Users\Lenovo\Desktop\Взрываем страну\Взрываем страну\bin\Debug\Delegate.pdb
+C:\Users\Lenovo\Desktop\Взрываем страну\Взрываем страну\obj\x86\Debug\Delegate.exe
+C:\Users\Lenovo\Desktop\Взрываем страну\Взрываем страну\obj\x86\Debug\Delegate.pdb

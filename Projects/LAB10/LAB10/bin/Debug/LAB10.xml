@@ -1,0 +1,376 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LAB10
+</name>
+</assembly>
+<members>
+<member name="T:LAB10.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LAB10.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LAB10.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.ClientDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.DriveDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.GraphyCardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.MotherBoardDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.PBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.PCDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.PCOrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.ProcessorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.RAMDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_ClientNamesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_PB_KPDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_PB_SercifDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_RAMDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_RAM6DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.Func6DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.ClientRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.DriveRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.GraphyCardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.MotherBoardRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.PBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.PCRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.PCOrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.ProcessorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.RAMRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_ClientNamesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_PB_KPDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_PB_SercifRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_RAMRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_RAM6Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.Func6Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.ClientRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.DriveRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.GraphyCardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.MotherBoardRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.PBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.PCRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.PCOrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.ProcessorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.RAMRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_ClientNamesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_PB_KPDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_PB_SercifRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_RAMRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.view_RAM6RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSet.Func6RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.ClientTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.DriveTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.GraphyCardTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.MotherBoardTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.PBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.PCTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.PCOrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.ProcessorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.RAMTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.view_ClientNamesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.view_PB_KPDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.view_PB_SercifTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.view_RAMTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.view_RAM6TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.Func6TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.QueriesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:LAB10.AssemblePcDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LAB10.AssemblePcDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:LAB10.AssemblePcDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LAB10.AssemblePcDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:LAB10.AssemblePcDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LAB10.AssemblePcDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:LAB10.AssemblePcDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:LAB10.AssemblePcDataSetTableAdapters.TableAdapterManager.UpdateAll(LAB10.AssemblePcDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:LAB10.AssemblePcDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

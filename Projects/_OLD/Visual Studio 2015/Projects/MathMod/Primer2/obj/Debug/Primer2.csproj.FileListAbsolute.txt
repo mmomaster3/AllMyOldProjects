@@ -1,0 +1,6 @@
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer2\bin\Debug\Primer2.exe.config
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer2\bin\Debug\Primer2.exe
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer2\bin\Debug\Primer2.pdb
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer2\obj\Debug\Primer2.exe
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer2\obj\Debug\Primer2.pdb
+d:\ONEKID\documents\visual studio 2015\Projects\MathMod\Primer2\obj\Debug\Primer2.csprojResolveAssemblyReference.cache

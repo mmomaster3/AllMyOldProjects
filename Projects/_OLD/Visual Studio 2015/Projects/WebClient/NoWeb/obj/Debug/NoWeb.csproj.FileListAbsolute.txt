@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\NoWeb\bin\Debug\NoWeb.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\NoWeb\bin\Debug\NoWeb.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\NoWeb\bin\Debug\NoWeb.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\NoWeb\obj\Debug\NoWeb.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\NoWeb\obj\Debug\NoWeb.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\NoWeb\obj\Debug\NoWeb.pdb

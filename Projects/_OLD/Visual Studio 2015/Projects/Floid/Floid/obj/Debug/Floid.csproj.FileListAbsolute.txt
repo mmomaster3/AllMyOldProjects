@@ -1,0 +1,6 @@
+c:\users\matvey\documents\visual studio 2015\Projects\Floid\Floid\bin\Debug\Floid.exe.config
+c:\users\matvey\documents\visual studio 2015\Projects\Floid\Floid\bin\Debug\Floid.exe
+c:\users\matvey\documents\visual studio 2015\Projects\Floid\Floid\bin\Debug\Floid.pdb
+c:\users\matvey\documents\visual studio 2015\Projects\Floid\Floid\obj\Debug\Floid.csprojResolveAssemblyReference.cache
+c:\users\matvey\documents\visual studio 2015\Projects\Floid\Floid\obj\Debug\Floid.exe
+c:\users\matvey\documents\visual studio 2015\Projects\Floid\Floid\obj\Debug\Floid.pdb

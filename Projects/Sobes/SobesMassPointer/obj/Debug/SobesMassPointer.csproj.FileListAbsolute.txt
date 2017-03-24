@@ -1,0 +1,5 @@
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\SobesMassPointer\bin\Debug\SobesMassPointer.exe.config
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\SobesMassPointer\bin\Debug\SobesMassPointer.exe
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\SobesMassPointer\bin\Debug\SobesMassPointer.pdb
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\SobesMassPointer\obj\Debug\SobesMassPointer.exe
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\SobesMassPointer\obj\Debug\SobesMassPointer.pdb

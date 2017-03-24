@@ -1,0 +1,6 @@
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\WotRss\WotRss\bin\Debug\WotRss.exe.config
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\WotRss\WotRss\bin\Debug\WotRss.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\WotRss\WotRss\bin\Debug\WotRss.pdb
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\WotRss\WotRss\obj\Debug\WotRss.csprojResolveAssemblyReference.cache
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\WotRss\WotRss\obj\Debug\WotRss.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\123\WotRss\WotRss\obj\Debug\WotRss.pdb

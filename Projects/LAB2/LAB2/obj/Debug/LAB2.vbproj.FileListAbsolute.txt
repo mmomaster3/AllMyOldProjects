@@ -1,0 +1,11 @@
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\bin\Debug\LAB2.exe.config
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\bin\Debug\LAB2.exe
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\bin\Debug\LAB2.pdb
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\bin\Debug\LAB2.xml
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\obj\Debug\LAB2.vbprojResolveAssemblyReference.cache
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\obj\Debug\LAB2.Form1.resources
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\obj\Debug\LAB2.Resources.resources
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\obj\Debug\LAB2.vbproj.GenerateResource.Cache
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\obj\Debug\LAB2.exe
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\obj\Debug\LAB2.xml
+d:\matthew\documents\visual studio 2015\Projects\LAB2\LAB2\obj\Debug\LAB2.pdb

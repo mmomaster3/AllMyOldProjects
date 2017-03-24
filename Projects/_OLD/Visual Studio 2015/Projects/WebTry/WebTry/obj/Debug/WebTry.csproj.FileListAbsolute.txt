@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WebTry\WebTry\bin\Debug\WebTry.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebTry\WebTry\bin\Debug\WebTry.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebTry\WebTry\bin\Debug\WebTry.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebTry\WebTry\obj\Debug\WebTry.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebTry\WebTry\obj\Debug\WebTry.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebTry\WebTry\obj\Debug\WebTry.pdb

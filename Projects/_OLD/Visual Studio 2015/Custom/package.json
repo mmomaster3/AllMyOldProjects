@@ -1,0 +1,9 @@
+{
+  "type": "core",
+  "dll_core": "Ensage.Core.dll",
+  "dll_bridge": "Ensage.dll",
+  "game_region": "DOTA2",
+  "game_version": "1517",
+  "game_hash": "68a8a7df567c08f6a8ff4f8efa8e1ae6",
+  "scheduled": 0
+}

@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\lenovo\documents\visual studio 2015\projects\directory\mbr\main.cpp(24): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+c:\users\lenovo\documents\visual studio 2015\projects\directory\mbr\main.cpp(43): warning C4007: WinMain: должен быть "__stdcall"
+c:\users\lenovo\documents\visual studio 2015\projects\directory\mbr\main.cpp(57): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+LIBCMT.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ)
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Directory\Debug\mbr.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

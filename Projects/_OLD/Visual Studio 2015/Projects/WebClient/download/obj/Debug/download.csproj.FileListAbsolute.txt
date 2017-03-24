@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\download\bin\Debug\download.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\download\bin\Debug\download.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\download\bin\Debug\download.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\download\obj\Debug\download.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\download\obj\Debug\download.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\download\obj\Debug\download.pdb

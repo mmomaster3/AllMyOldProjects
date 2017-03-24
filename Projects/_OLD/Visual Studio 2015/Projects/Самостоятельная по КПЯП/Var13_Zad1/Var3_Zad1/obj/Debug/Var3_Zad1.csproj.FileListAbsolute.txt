@@ -1,0 +1,9 @@
+c:\users\matvey\documents\visual studio 2015\Projects\Var3_Zad1\Var3_Zad1\bin\Debug\Var3_Zad1.exe.config
+c:\users\matvey\documents\visual studio 2015\Projects\Var3_Zad1\Var3_Zad1\bin\Debug\Var3_Zad1.exe
+c:\users\matvey\documents\visual studio 2015\Projects\Var3_Zad1\Var3_Zad1\bin\Debug\Var3_Zad1.pdb
+c:\users\matvey\documents\visual studio 2015\Projects\Var3_Zad1\Var3_Zad1\obj\Debug\Var3_Zad1.csprojResolveAssemblyReference.cache
+c:\users\matvey\documents\visual studio 2015\Projects\Var3_Zad1\Var3_Zad1\obj\Debug\Var3_Zad1.exe
+c:\users\matvey\documents\visual studio 2015\Projects\Var3_Zad1\Var3_Zad1\obj\Debug\Var3_Zad1.pdb
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Самостоятельная по КПЯП\Var13_Zad1\Var3_Zad1\bin\Debug\Var3_Zad1.exe.config
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Самостоятельная по КПЯП\Var13_Zad1\Var3_Zad1\obj\Debug\Var3_Zad1.exe
+C:\Users\Matvey\Documents\Visual Studio 2015\Projects\Самостоятельная по КПЯП\Var13_Zad1\Var3_Zad1\obj\Debug\Var3_Zad1.pdb

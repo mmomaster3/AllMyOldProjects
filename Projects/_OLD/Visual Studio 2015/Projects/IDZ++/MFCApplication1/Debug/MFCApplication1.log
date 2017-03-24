@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  ViewTree.cpp
+  PropertiesWnd.cpp
+  OutputWnd.cpp
+  MFCApplication1View.cpp
+  MFCApplication1Doc.cpp
+  MFCApplication1.cpp
+  MainFrm.cpp
+  FileView.cpp
+  ClassView.cpp
+  ChildFrm.cpp
+  Создание кода...
+  MFCApplication1.vcxproj -> D:\ONEKID\Documents\Visual Studio 2015\Projects\IDZ++\Debug\MFCApplication1.exe
+  MFCApplication1.vcxproj -> D:\ONEKID\Documents\Visual Studio 2015\Projects\IDZ++\Debug\MFCApplication1.pdb (Partial PDB)

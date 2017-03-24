@@ -1,0 +1,26 @@
+C:\Users\801406\Desktop\1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\801406\Desktop\1\obj\Debug\ResGen.read.1.tlog
+C:\Users\801406\Desktop\1\obj\Debug\ResGen.write.1.tlog
+C:\Users\801406\Desktop\1\obj\Debug\Vkontakte.AboutBox1.resources
+C:\Users\801406\Desktop\1\obj\Debug\Vkontakte.Form1.resources
+C:\Users\801406\Desktop\1\obj\Debug\Vkontakte.Properties.Resources.resources
+C:\Users\Mishar\Desktop\vkontakte\obj\Debug\Vkontakte.csprojResolveAssemblyReference.cache
+C:\Users\Mishar\Desktop\vkontakte\obj\Debug\Vkontakte.AboutBox1.resources
+C:\Users\Mishar\Desktop\vkontakte\obj\Debug\Vkontakte.Form1.resources
+C:\Users\Mishar\Desktop\vkontakte\obj\Debug\Vkontakte.csproj.GenerateResource.Cache
+C:\Users\Mishar\Desktop\vkontakte\obj\Debug\Vkontakte.Properties.Resources.resources
+C:\Users\Mishar\Desktop\vkontakte\bin\Debug\Vkontakte.exe
+C:\Users\Mishar\Desktop\vkontakte\bin\Debug\Vkontakte.pdb
+C:\Users\Mishar\Desktop\vkontakte\obj\Debug\Vkontakte.exe
+C:\Users\Mishar\Desktop\vkontakte\obj\Debug\Vkontakte.pdb
+D:\All\vkontakte\obj\Debug\Vkontakte.exe
+D:\All\vkontakte\obj\Debug\Vkontakte.pdb
+D:\All\vkontakte\bin\Debug\Vkontakte.exe
+D:\All\vkontakte\bin\Debug\Vkontakte.pdb
+D:\All\vkontakte\obj\Debug\Vkontakte.csprojResolveAssemblyReference.cache
+D:\All\vkontakte\obj\Debug\Vkontakte.AboutBox1.resources
+D:\All\vkontakte\obj\Debug\Vkontakte.Form1.resources
+D:\All\vkontakte\obj\Debug\Vkontakte.Properties.Resources.resources
+D:\All\vkontakte\obj\Debug\Vkontakte.csproj.GenerateResource.Cache
+C:\Users\mkbek\Documents\Visual Studio 2015\Projects\vkontakte\obj\Debug\Vkontakte.exe
+C:\Users\mkbek\Documents\Visual Studio 2015\Projects\vkontakte\obj\Debug\Vkontakte.pdb

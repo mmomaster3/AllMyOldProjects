@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Work1\Work2\bin\Debug\Work2.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Work1\Work2\bin\Debug\Work2.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Work1\Work2\bin\Debug\Work2.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Work1\Work2\obj\Debug\Work2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Work1\Work2\obj\Debug\Work2.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Work1\Work2\obj\Debug\Work2.pdb

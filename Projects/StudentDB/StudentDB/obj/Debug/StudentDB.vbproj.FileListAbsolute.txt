@@ -1,0 +1,11 @@
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\bin\Debug\StudentDB.exe.config
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\bin\Debug\StudentDB.exe
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\bin\Debug\StudentDB.pdb
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\bin\Debug\StudentDB.xml
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\obj\Debug\StudentDB.vbprojResolveAssemblyReference.cache
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\obj\Debug\StudentDB.Form1.resources
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\obj\Debug\StudentDB.Resources.resources
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\obj\Debug\StudentDB.vbproj.GenerateResource.Cache
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\obj\Debug\StudentDB.exe
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\obj\Debug\StudentDB.xml
+d:\matthew\documents\visual studio 2015\Projects\StudentDB\StudentDB\obj\Debug\StudentDB.pdb

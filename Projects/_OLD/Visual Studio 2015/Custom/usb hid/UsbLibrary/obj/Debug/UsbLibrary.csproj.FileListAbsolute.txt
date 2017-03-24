@@ -1,0 +1,6 @@
+D:\All\usb hid\UsbLibrary\bin\Debug\UsbLibrary.XML
+D:\All\usb hid\UsbLibrary\bin\Debug\UsbLibrary.dll
+D:\All\usb hid\UsbLibrary\bin\Debug\UsbLibrary.pdb
+D:\All\usb hid\UsbLibrary\obj\Debug\UsbLibrary.csprojResolveAssemblyReference.cache
+D:\All\usb hid\UsbLibrary\obj\Debug\UsbLibrary.dll
+D:\All\usb hid\UsbLibrary\obj\Debug\UsbLibrary.pdb

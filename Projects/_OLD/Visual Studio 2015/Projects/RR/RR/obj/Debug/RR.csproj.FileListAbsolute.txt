@@ -1,0 +1,2 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RR\RR\bin\Debug\RR.exe.config
+D:\ONEKID\Documents\Visual Studio 2015\Projects\RR\RR\bin\Debug\RR.exe.config

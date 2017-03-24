@@ -1,0 +1,6 @@
+d:\matthew\documents\visual studio 2015\Projects\Sobes\Sobes\bin\Debug\Sobes.exe.config
+d:\matthew\documents\visual studio 2015\Projects\Sobes\Sobes\bin\Debug\Sobes.exe
+d:\matthew\documents\visual studio 2015\Projects\Sobes\Sobes\bin\Debug\Sobes.pdb
+d:\matthew\documents\visual studio 2015\Projects\Sobes\Sobes\obj\Debug\Sobes.csprojResolveAssemblyReference.cache
+d:\matthew\documents\visual studio 2015\Projects\Sobes\Sobes\obj\Debug\Sobes.exe
+d:\matthew\documents\visual studio 2015\Projects\Sobes\Sobes\obj\Debug\Sobes.pdb

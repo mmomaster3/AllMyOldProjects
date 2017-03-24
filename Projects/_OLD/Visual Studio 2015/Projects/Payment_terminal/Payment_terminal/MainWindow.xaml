@@ -1,0 +1,117 @@
+﻿<Window x:Class="Payment_terminal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Payment_terminal"
+        mc:Ignorable="d"
+        Title="" WindowState="Maximized" WindowStyle="None" Closed="Window_Closed">
+    <Window.Resources>
+        <Style x:Key="FocusVisual">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="2" SnapsToDevicePixels="true" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" StrokeThickness="1" StrokeDashArray="1 2"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD"/>
+        <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FF3C7FB1"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFC4E5F6"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border" Color="#FF2C628B"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+        <Style x:Key="TerminalStyle" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" SnapsToDevicePixels="true">
+                            <ContentPresenter x:Name="contentPresenter" Focusable="False" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true">
+                                <Setter Property="BorderBrush" TargetName="border" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.MouseOver.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.MouseOver.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="true">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Pressed.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Pressed.Border}"/>
+                            </Trigger>
+                            <Trigger Property="IsEnabled" Value="false">
+                                <Setter Property="Background" TargetName="border" Value="{StaticResource Button.Disabled.Background}"/>
+                                <Setter Property="BorderBrush" TargetName="border" Value="{StaticResource Button.Disabled.Border}"/>
+                                <Setter Property="TextElement.Foreground" TargetName="contentPresenter" Value="{StaticResource Button.Disabled.Foreground}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <!--Width="1600" Height="900"-->
+    <Grid RenderTransformOrigin="0.503,0.486">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="225*"/>
+            <ColumnDefinition Width="288*"/>
+            <ColumnDefinition Width="227*"/>
+            <ColumnDefinition Width="20*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF04305B" Offset="0"/>
+                <GradientStop Color="{DynamicResource {x:Static SystemColors.HighlightColorKey}}" Offset="0.971"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="141*"/>
+            <RowDefinition Height="58*"/>
+            <RowDefinition Height="31*"/>
+            <RowDefinition Height="58*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="58*"/>
+            <RowDefinition Height="148*"/>
+        </Grid.RowDefinitions>
+        <Path Data="M1,147 C20.538858,129.59593 198.38039,127.33167 386.59805,134.97242 587.59565,144.29365 789.81158,138.90542 783.5,115.5002" Margin="1,106,108.996,8.507" Stretch="Fill" StrokeThickness="2" Grid.ColumnSpan="3" Stroke="#FFE0CED0"/>
+        <Path x:Name="path_data_and_time" Data="M688,0.66666667 C635.5725,-4.6191511 614.85217,92.082859 759.5,42.833 L758.16666,-0.50033901" Margin="0,-4.025,-9,0" Stretch="Fill" Stroke="Black" Grid.Column="2" Height="129.025" VerticalAlignment="Top" HorizontalAlignment="Right" Width="187.917" Grid.ColumnSpan="2" Fill="#FF990618"/>
+        <Path Data="M0,122" Fill="#FF4D151C" HorizontalAlignment="Left" Margin="0,-54,0,27" Stretch="Fill" Stroke="Black" Width="1" d:LayoutOverrides="LeftMargin, RightMargin" Grid.Row="1"/>
+        <Label x:Name="label" Margin="-111,10,0,0" FontSize="18.667" FontFamily="Wide Latin" Foreground="#FFCF3434" Grid.Column="3" HorizontalAlignment="Right" Width="131" Height="38" VerticalAlignment="Top">
+            <Label x:Name="label_time" Content="24:24" Foreground="#FFBFD10B" HorizontalAlignment="Right" VerticalAlignment="Top" Height="28" Width="105">
+                <Label.Effect>
+                    <DropShadowEffect Color="Black" RenderingBias="Quality"/>
+                </Label.Effect>
+            </Label>
+        </Label>
+        <Label x:Name="label_data" Content="31 марта 2016" Foreground="#FFBFD10B" Margin="0,66,10,0" FontFamily="Wide Latin" Grid.Column="2" Height="35" VerticalAlignment="Top" HorizontalAlignment="Right" Width="140" Grid.ColumnSpan="2">
+            <Label.Effect>
+                <DropShadowEffect Color="Black" RenderingBias="Quality"/>
+            </Label.Effect>
+        </Label>
+        <Path Data="M718,161" HorizontalAlignment="Right" Height="1" Margin="0,20,21,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="1" Grid.Row="1" Grid.Column="2"/>
+        <Button Style="{StaticResource InformButton}" x:Name="pay_button" Content="Оплатить" Margin="0" Grid.Row="1" Grid.Column="1" Width="Auto" Click="button_Click"/>
+        <Button Style="{StaticResource InformButton}" x:Name="info_button" Content="Информация" Margin="0" Grid.Row="3" Grid.Column="1" Width="Auto" Click="info_button_Click"/>
+        <Button Style="{StaticResource InformButton}" x:Name="help_Button" Content="Справка" Margin="0" Grid.Row="5" Grid.Column="1" Width="Auto" Click="help_Button_Click"/>
+        <Border BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="4" Grid.Row="6" Height="20" VerticalAlignment="Bottom" Background="White"/>
+        <Label x:Name="label_number" Content="Тех.Поддержка: +375-29-1234567 Vel." HorizontalContentAlignment="Center" Margin="10,0" Grid.Row="6" Background="{x:Null}" FontFamily="Swis721 Hv BT" Height="24" VerticalAlignment="Bottom" Grid.Column="1"/>
+        <Expander x:Name="expander_ads" Header="Реклама" HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" ExpandDirection="Right" FontFamily="Times New Roman" FontSize="20" FontWeight="Bold" Foreground="#FFAFDE33" Height="106" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="444">
+            <Image x:Name="ImgAds" Source="joy.png" Margin="0,0,0,-35" Width="406">
+
+            </Image>
+        </Expander>
+
+    </Grid>
+</Window>

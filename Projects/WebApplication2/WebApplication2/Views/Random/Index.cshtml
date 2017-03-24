@@ -1,0 +1,36 @@
+﻿@model IEnumerable <WebApplication2.Models.Random>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <p>Список:</p>
+        @foreach (var item in Model)
+        {
+            <p>Элемент: @item.number его строковое представление @item.numberOnString</p>
+        }
+        <ol>
+            <li>Item № 1</li>
+            <li>Item № 2</li>
+            <li>Item № 3</li>
+            <li>Item № </li>
+            <li>Item № 1</li>
+            <li>Item № 1</li>
+            <li>Item № 1</li>
+            <li>Item № 1</li>
+            <li>Item № 1</li>
+            <li>Item № 1</li>
+            <li>Item № 1</li>
+        </ol>
+    </div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\WebClient\WebClient\bin\Debug\WebClient.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\WebClient\WebClient\bin\Debug\WebClient.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WebClient\WebClient\bin\Debug\WebClient.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\WebClient\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\WebClient\WebClient\obj\Debug\WebClient.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\WebClient\WebClient\obj\Debug\WebClient.pdb
+D:\ONEKID\Documents\Visual Studio 2015\Projects\WebClient\WebClient\bin\Debug\WebClient.exe.config
+D:\ONEKID\Documents\Visual Studio 2015\Projects\WebClient\WebClient\obj\Debug\WebClient.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\WebClient\WebClient\obj\Debug\WebClient.pdb

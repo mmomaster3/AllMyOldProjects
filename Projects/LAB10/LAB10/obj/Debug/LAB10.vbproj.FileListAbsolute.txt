@@ -1,0 +1,12 @@
+d:\matthew\documents\visual studio 2015\Projects\LAB10\LAB10\bin\Debug\LAB10.exe.config
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\bin\Debug\LAB10.exe
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\bin\Debug\LAB10.pdb
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\bin\Debug\LAB10.xml
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\obj\Debug\LAB10.vbprojResolveAssemblyReference.cache
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\obj\Debug\LAB10.Client.resources
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\obj\Debug\LAB10.Form1.resources
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\obj\Debug\LAB10.Resources.resources
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\obj\Debug\LAB10.vbproj.GenerateResource.Cache
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\obj\Debug\LAB10.exe
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\obj\Debug\LAB10.xml
+D:\Matthew\Documents\Visual Studio 2015\Projects\LAB10\LAB10\obj\Debug\LAB10.pdb

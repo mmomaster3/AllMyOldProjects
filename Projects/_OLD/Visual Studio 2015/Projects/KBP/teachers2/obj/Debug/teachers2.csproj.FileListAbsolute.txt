@@ -1,0 +1,9 @@
+D:\ONEKID\Documents\Visual Studio 2015\Projects\KBP\teachers2\bin\Debug\teachers2.exe.config
+D:\ONEKID\Documents\Visual Studio 2015\Projects\KBP\teachers2\bin\Debug\teachers2.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\KBP\teachers2\bin\Debug\teachers2.pdb
+D:\ONEKID\Documents\Visual Studio 2015\Projects\KBP\teachers2\obj\Debug\teachers2.Form1.resources
+D:\ONEKID\Documents\Visual Studio 2015\Projects\KBP\teachers2\obj\Debug\teachers2.Properties.Resources.resources
+D:\ONEKID\Documents\Visual Studio 2015\Projects\KBP\teachers2\obj\Debug\teachers2.csproj.GenerateResource.Cache
+D:\ONEKID\Documents\Visual Studio 2015\Projects\KBP\teachers2\obj\Debug\teachers2.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\KBP\teachers2\obj\Debug\teachers2.pdb
+D:\ONEKID\Documents\Visual Studio 2015\Projects\KBP\teachers2\obj\Debug\teachers2.csprojResolveAssemblyReference.cache

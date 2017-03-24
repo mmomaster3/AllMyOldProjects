@@ -1,0 +1,139 @@
+﻿<Window x:Class="Payment_terminal.Services"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Payment_terminal"
+        mc:Ignorable="d"
+        Title="" WindowState="Maximized" WindowStyle="None" Closed="Window_Closed">
+    <!--Width="1600" Height="900"-->
+    <Grid RenderTransformOrigin="0.503,0.486">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="125*"/>
+            <RowDefinition Height="76*"/>
+            <RowDefinition Height="125*"/>
+            <RowDefinition Height="201*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF04305B" Offset="0"/>
+                <GradientStop Color="{DynamicResource {x:Static SystemColors.HighlightColorKey}}" Offset="0.971"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Rectangle Height="108" Margin="0,40,0,0" Stroke="Black" VerticalAlignment="Top" Grid.RowSpan="2">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF3F88C5" Offset="0"/>
+                    <GradientStop Color="#FF1E69B4" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button Style="{StaticResource InformButton}" x:Name="button_prev" Content="На главную" HorizontalAlignment="Left" Width="160" Margin="10,0,0,10" Click="button_prev_Click" Height="45" VerticalAlignment="Bottom" Grid.Row="3"/>
+
+        <Grid Margin="0,75,0,200" Grid.Row="1" Grid.RowSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Button Style="{StaticResource ServiceButton}" x:Name="ButtonMobi" FontSize="16" Grid.Column="0" Grid.Row="0" Click="MobiButton_Click">
+                <StackPanel>
+                    <TextBlock>Мобильная связь</TextBlock>
+                    <Path Data="M10.788997,22.500002L13.585996,22.500002C14.137998,22.500002 14.585997,22.948 14.585997,23.500002 14.585997,24.052004 14.137998,24.500002 13.585996,24.500002L10.788997,24.500002C10.236995,24.500002 9.7889965,24.052004 9.7889963,23.500002 9.7889965,22.948 10.236995,22.500002 10.788997,22.500002z M13.183746,17.375002C12.62474,17.458002,12.055734,17.459002,11.496728,17.378002L8.7159324,25.312 15.817862,25.312z M12.188,9.5620003C10.719998,9.5620003 9.5269971,10.768001 9.5269971,12.249001 9.5269971,13.731 10.719998,14.937 12.188,14.937 13.656001,14.937 14.849002,13.731 14.849002,12.249001 14.849002,10.768001 13.656001,9.5620003 12.188,9.5620003z M12.188,7.5620003C14.762002,7.5620003 16.849004,9.6610003 16.849004,12.249001 16.849004,13.78622 16.113255,15.150694 14.976667,16.005628L14.863885,16.086295 19.707819,30.685011C19.881821,31.208012 19.597817,31.774012 19.073812,31.949012 18.96881,31.983012 18.862809,32.000011 18.758808,32.000011 18.339804,32.000011 17.948799,31.734012 17.809797,31.314012L16.481618,27.312 8.0149502,27.312 6.6066732,31.330011C6.4226711,31.852012 5.8526647,32.123012 5.3316588,31.943012 4.8106532,31.761012 4.5356503,31.190011 4.7186522,30.669011L9.7703691,16.257749 9.5820751,16.136334C8.3422303,15.293844 7.5269952,13.867126 7.5269949,12.249001 7.5269952,9.6610003 9.6139971,7.5620003 12.188,7.5620003z M12.188,3.2810001C17.108,3.2810001 21.112,7.2629976 21.112,12.156995 21.112,14.890993 19.868,17.431991 17.7,19.12999 17.517,19.273989 17.3,19.342989 17.084,19.342989 16.787,19.342989 16.494,19.211989 16.296,18.95999 15.956,18.52499 16.032,17.89599 16.467,17.555991 18.148,16.238991 19.112,14.271993 19.112,12.156995 19.112,8.3649969 16.005,5.2799988 12.188,5.2799988 8.3699994,5.2799988 5.2629991,8.3649969 5.2629991,12.156995 5.2629991,14.269993 6.2259994,16.236991 7.9039997,17.551991 8.3389994,17.89299 8.4149994,18.52199 8.0739994,18.956989 7.7329993,19.390989 7.1029994,19.465989 6.6699991,19.12699 4.5049992,17.42799 3.2629991,14.887992 3.2629991,12.156995 3.2629991,7.2629976 7.2669992,3.2810001 12.188,3.2810001z M12.187,0C18.908,0 24.375,5.4470005 24.375,12.143001 24.375,16.379 22.205,20.242 18.568999,22.475 18.098,22.763 17.481999,22.617 17.193,22.146 16.904,21.676 17.051,21.06 17.522,20.771 20.561,18.904 22.375,15.679 22.375,12.143001 22.375,6.5500002 17.804999,2 12.187,2 6.5699997,2 1.9999995,6.5500002 1.9999995,12.143001 1.9999995,15.68 3.8149996,18.906 6.8559995,20.773 7.3269997,21.062 7.4739997,21.678 7.1849995,22.148 6.9969997,22.456 6.6679997,22.625 6.3319991,22.625 6.1539996,22.625 5.9729996,22.578 5.8099995,22.477 2.1719995,20.244 0,16.381 0,12.143001 0,5.4470005 5.4669995,0 12.187,0z" Stretch="Uniform" Fill="#FFFFFFFF" Width="150" Height="150" Margin="0,0,0,0" RenderTransformOrigin="0.5,0.5">
+                        <Path.RenderTransform>
+                            <TransformGroup>
+                                <TransformGroup.Children>
+                                    <RotateTransform Angle="0" />
+                                    <ScaleTransform ScaleX="1" ScaleY="1" />
+                                </TransformGroup.Children>
+                            </TransformGroup>
+                        </Path.RenderTransform>
+                    </Path>
+                </StackPanel>
+            </Button>
+            <Button Style="{StaticResource ServiceButton}" x:Name="ButtonInternet" FontSize="16" Grid.Column="1" Grid.Row="0" Click="ButtonInternet_Click">
+                <StackPanel>
+                    <TextBlock>Интернет</TextBlock>
+                    <Path Data="M3.829694,23.203955C3.0836978,24.844952 2.1867015,27.452963 2.9786873,29.695984 5.7716653,31.420996 10.411644,29.901978 12.34861,28.342981 8.2546475,27.828972 5.9766805,25.57695 3.829694,23.203955z M16.352577,9.6999055C14.029597,9.7269136,11.697614,11.099904,12.065623,13.734924L20.584569,13.734924C20.988557,10.989919,18.675557,9.6718904,16.352577,9.6999055z M28.12049,0.00086334947C28.622501,0.0088587765 29.140502,0.072854384 29.676479,0.20685754 32.106452,0.96586317 32.053474,5.1988808 30.809465,7.2418882 30.794482,4.9128691 31.891458,1.8008578 29.103484,1.0198795 26.174522,0.19687829 23.167526,2.605884 20.867557,3.4548863 26.983506,5.5688773 31.019487,9.6588899 30.809465,17.791916L12.065623,17.791916C11.172624,23.202948,20.064554,23.820961,20.867557,19.415945L30.526479,19.415945C28.2425,25.223951 24.495519,28.596981 17.461578,28.883968 16.500587,28.92297 15.162584,28.460962 14.054621,28.613979 11.141619,29.01898 1.8666966,35.850001 0.13972004,28.883968 -0.10228223,27.92498 0.018719024,26.794972 0.13972004,25.637955 0.9107104,18.306933 7.7456491,10.553912 13.204622,6.6998936 13.317627,6.6738926 13.387603,6.6058995 13.466613,6.5448943L13.504606,6.5178863 13.771603,6.4308802C13.664609,6.4298731,13.590605,6.4608795,13.52661,6.5018951L13.504606,6.5178863 13.336609,6.572879C8.8526347,8.116891 4.6466739,12.0169 1.8396889,15.897927 2.0816913,8.8939029 5.839658,4.0798889 12.920627,3.1838893 14.773609,2.9478654 16.852573,3.5648722 18.883563,3.1838893 21.827541,2.629871 24.603521,-0.055136831 28.12049,0.00086334947z" Stretch="Uniform" Fill="#FFFFFFFF" Width="150" Height="150" Margin="0,0,0,0" RenderTransformOrigin="0.5,0.5">
+                        <Path.RenderTransform>
+                            <TransformGroup>
+                                <TransformGroup.Children>
+                                    <RotateTransform Angle="0" />
+                                    <ScaleTransform ScaleX="1" ScaleY="1" />
+                                </TransformGroup.Children>
+                            </TransformGroup>
+                        </Path.RenderTransform>
+                    </Path>
+                </StackPanel>
+            </Button>
+            <Button x:Name="buttonTV" Style="{StaticResource ServiceButton}" FontSize="16" Grid.Column="2" Grid.Row="0" Click="buttonTV_Click">
+                <StackPanel>
+                    <TextBlock>ТВ</TextBlock>
+                    <Path Data="M28.100037,22.900193C27.200012,22.900193 26.5,23.600211 26.5,24.500182 26.5,25.400214 27.200012,26.100232 28.100037,26.100232 29,26.100232 29.700012,25.400214 29.700012,24.500182 29.700012,23.600211 28.900024,22.900193 28.100037,22.900193z M26.400024,19.900167L26.400024,20.700162 29.799988,20.700162 29.799988,19.900167z M26.400024,15.700118L26.400024,16.500114 29.799988,16.500114 29.799988,15.700118z M26.400024,11.5001L26.400024,12.300095 29.799988,12.300095 29.799988,11.5001z M3.2000122,9.7000657C2.6000366,9.7000657,2,10.20007,2,10.900088L2,26.700214C2,27.300195,2.5,27.900237,3.2000122,27.900237L23.600037,27.900237C24.200012,27.900237,24.799988,27.400231,24.799988,26.700214L24.799988,10.900088C24.799988,10.300078,24.299988,9.7000657,23.600037,9.7000657z M4.1000366,7.2000443L27.900024,7.2000443C30.200012,7.2000443,32,9.0000783,32,11.300086L32,25.700206C32,28.000213,30.200012,29.800216,27.900024,29.800216L4.1000366,29.800216C1.7999878,29.900254,0,28.000213,0,25.800182L0,11.300086C0,9.1000549,1.7999878,7.2000443,4.1000366,7.2000443z M21.5,0L25.299988,5.800038 29.100037,0 29.5,0.19998312 25.700012,6.0000521C26.200012,6.1000286,26.5,6.4000493,26.799988,6.800047L23.600037,6.800047C23.900024,6.4000493,24.299988,6.0000521,24.900024,6.0000521L21.100037,0.29999017z" Stretch="Uniform" Fill="#FFFFFFFF" Width="150" Height="150" Margin="0,0,0,0" RenderTransformOrigin="0.5,0.5">
+                        <Path.RenderTransform>
+                            <TransformGroup>
+                                <TransformGroup.Children>
+                                    <RotateTransform Angle="0" />
+                                    <ScaleTransform ScaleX="1" ScaleY="1" />
+                                </TransformGroup.Children>
+                            </TransformGroup>
+                        </Path.RenderTransform>
+                    </Path>
+                </StackPanel>
+            </Button>
+            <Button Style="{StaticResource ServiceButton}" x:Name="buttonJEKX" FontSize="16" Grid.Column="3" Grid.Row="0" Click="buttonJEKX_Click">
+                <StackPanel>
+                    <TextBlock>ЖКХ</TextBlock>
+                    <Path Data="M16.200012,6.9000092L27.899994,14.699997 27.899994,26.5 20.200012,26.5 20.200012,18.699997 11.700012,18.699997 11.700012,26.5 4.1000061,26.5 4.1000061,14.699997z M16.200012,0L32,10.800003 32,14.400009 16.200012,3.6000061 0,14.699997 0,11.100006z" Stretch="Uniform" Fill="#FFFFFFFF" Width="150" Height="150" Margin="0,0,0,0" RenderTransformOrigin="0.5,0.5">
+                        <Path.RenderTransform>
+                            <TransformGroup>
+                                <TransformGroup.Children>
+                                    <RotateTransform Angle="0" />
+                                    <ScaleTransform ScaleX="1" ScaleY="1" />
+                                </TransformGroup.Children>
+                            </TransformGroup>
+                        </Path.RenderTransform>
+                    </Path>
+                </StackPanel>
+            </Button>
+        </Grid>
+        <Grid Margin="0,40,0,57" Grid.RowSpan="2">
+            <Grid.Background>
+                <ImageBrush/>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="buttonVelcom" Margin="40,10" HorizontalAlignment="Stretch" Content="" FontFamily="Trebuchet MS" FontSize="24" Grid.Column="0" Click="buttonVelcom_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="res/velcom_logo_main_color.png"/>
+                </Button.Background>
+
+            </Button>
+            <Button x:Name="buttonMTS" Margin="40,10" HorizontalAlignment="Stretch" Content="" FontFamily="Trebuchet MS" FontSize="20" IsHitTestVisible="True" Grid.Column="1" Click="buttonMTS_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="res/MTSlogo.jpg"/>
+                </Button.Background>
+
+            </Button>
+        </Grid>
+        <Expander x:Name="expander_ads" Header="Реклама" HorizontalAlignment="Right" RenderTransformOrigin="0.5,0.5" ExpandDirection="Left" FontFamily="Times New Roman" FontSize="20" FontWeight="Bold" Foreground="#FFAFDE33" Height="50" VerticalAlignment="Bottom" Grid.Row="3" IsExpanded="True">
+            <Image x:Name="ImgAds" Source="res/help.jpg" Margin="0,-33,0,0" MouseDown="ImgAds_MouseDown">
+
+            </Image>
+        </Expander>
+
+    </Grid>
+</Window>
+

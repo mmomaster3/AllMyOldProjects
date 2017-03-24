@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\is\bin\Debug\@is.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\is\bin\Debug\@is.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\is\bin\Debug\@is.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\is\obj\Debug\@is.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\WebClient\is\obj\Debug\@is.pdb

@@ -1,0 +1,11 @@
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\bin\Debug\ConsoleApplicationDB.exe.config
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\bin\Debug\Database1.mdf
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\bin\Debug\Database1_log.ldf
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\bin\Debug\ConsoleApplicationDB.exe
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\bin\Debug\ConsoleApplicationDB.pdb
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\bin\Debug\EntityFramework.dll
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\bin\Debug\EntityFramework.xml
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\bin\Debug\ru\EntityFramework.resources.dll
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\obj\Debug\ConsoleApplicationDB.csprojResolveAssemblyReference.cache
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\obj\Debug\ConsoleApplicationDB.exe
+d:\onekid\documents\visual studio 2015\Projects\ConsoleApplicationDB\ConsoleApplicationDB\obj\Debug\ConsoleApplicationDB.pdb

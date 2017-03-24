@@ -1,0 +1,6 @@
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\DelegatesCalc\bin\Debug\DelegatesCalc.exe.config
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\DelegatesCalc\bin\Debug\DelegatesCalc.exe
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\DelegatesCalc\bin\Debug\DelegatesCalc.pdb
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\DelegatesCalc\obj\Debug\DelegatesCalc.exe
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\DelegatesCalc\obj\Debug\DelegatesCalc.pdb
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\DelegatesCalc\obj\Debug\DelegatesCalc.csprojResolveAssemblyReference.cache

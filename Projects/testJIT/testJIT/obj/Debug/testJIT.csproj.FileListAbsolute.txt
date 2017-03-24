@@ -1,0 +1,6 @@
+d:\matthew\documents\visual studio 2015\Projects\testJIT\testJIT\bin\Debug\testJIT.exe.config
+d:\matthew\documents\visual studio 2015\Projects\testJIT\testJIT\bin\Debug\testJIT.exe
+d:\matthew\documents\visual studio 2015\Projects\testJIT\testJIT\bin\Debug\testJIT.pdb
+d:\matthew\documents\visual studio 2015\Projects\testJIT\testJIT\obj\Debug\testJIT.csprojResolveAssemblyReference.cache
+d:\matthew\documents\visual studio 2015\Projects\testJIT\testJIT\obj\Debug\testJIT.exe
+d:\matthew\documents\visual studio 2015\Projects\testJIT\testJIT\obj\Debug\testJIT.pdb

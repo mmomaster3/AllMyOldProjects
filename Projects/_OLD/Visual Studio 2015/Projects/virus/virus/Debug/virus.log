@@ -1,0 +1,4 @@
+﻿  main.cpp
+LINK : warning LNK4076: недопустимый файл инкрементного состояния "C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\virus\Debug\virus.ilk" (будет удален); неинкрементная компоновка
+main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:LBR"
+  virus.vcxproj -> C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\virus\Debug\virus.exe

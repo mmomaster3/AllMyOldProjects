@@ -1,0 +1,13 @@
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\bin\Debug\Krivitskiy_OKR.exe.config
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\bin\Debug\Krivitskiy.mdf
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\bin\Debug\Krivitskiy_log.ldf
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\bin\Debug\Krivitskiy_OKR.exe
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\bin\Debug\Krivitskiy_OKR.pdb
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\bin\Debug\Krivitskiy_OKR.xml
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\obj\Debug\Krivitskiy_OKR.vbprojResolveAssemblyReference.cache
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\obj\Debug\Krivitskiy_OKR.Form1.resources
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\obj\Debug\Krivitskiy_OKR.Resources.resources
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\obj\Debug\Krivitskiy_OKR.vbproj.GenerateResource.Cache
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\obj\Debug\Krivitskiy_OKR.exe
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\obj\Debug\Krivitskiy_OKR.xml
+d:\matthew\documents\visual studio 2015\Projects\Krivitskiy_OKR\Krivitskiy_OKR\obj\Debug\Krivitskiy_OKR.pdb

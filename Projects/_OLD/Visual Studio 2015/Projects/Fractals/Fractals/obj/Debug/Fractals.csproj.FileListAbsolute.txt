@@ -1,0 +1,26 @@
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Fractals\Fractals\bin\Debug\Fractals.exe
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Fractals\Fractals\bin\Debug\Fractals.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+C:\Users\admin\Documents\Visual Studio 2008\Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
+D:\All\Fractals\Fractals\bin\Debug\Fractals.exe.config
+D:\All\Fractals\Fractals\obj\Debug\Fractals.exe
+D:\All\Fractals\Fractals\obj\Debug\Fractals.pdb
+D:\All\Fractals\Fractals\bin\Debug\Fractals.exe
+D:\All\Fractals\Fractals\bin\Debug\Fractals.pdb
+D:\All\Fractals\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+D:\All\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+D:\All\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+D:\All\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache

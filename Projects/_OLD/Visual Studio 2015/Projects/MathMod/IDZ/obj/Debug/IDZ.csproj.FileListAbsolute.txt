@@ -1,0 +1,9 @@
+D:\ONEKID\Documents\Visual Studio 2015\Projects\MathMod\IDZ\bin\Debug\IDZ.exe.config
+D:\ONEKID\Documents\Visual Studio 2015\Projects\MathMod\IDZ\bin\Debug\IDZ.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\MathMod\IDZ\bin\Debug\IDZ.pdb
+D:\ONEKID\Documents\Visual Studio 2015\Projects\MathMod\IDZ\obj\Debug\IDZ.csprojResolveAssemblyReference.cache
+D:\ONEKID\Documents\Visual Studio 2015\Projects\MathMod\IDZ\obj\Debug\IDZ.Form1.resources
+D:\ONEKID\Documents\Visual Studio 2015\Projects\MathMod\IDZ\obj\Debug\IDZ.Properties.Resources.resources
+D:\ONEKID\Documents\Visual Studio 2015\Projects\MathMod\IDZ\obj\Debug\IDZ.csproj.GenerateResource.Cache
+D:\ONEKID\Documents\Visual Studio 2015\Projects\MathMod\IDZ\obj\Debug\IDZ.exe
+D:\ONEKID\Documents\Visual Studio 2015\Projects\MathMod\IDZ\obj\Debug\IDZ.pdb

@@ -1,0 +1,5 @@
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\SObesClass\bin\Debug\SObesClass.exe.config
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\SObesClass\bin\Debug\SObesClass.exe
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\SObesClass\bin\Debug\SObesClass.pdb
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\SObesClass\obj\Debug\SObesClass.exe
+d:\Matthew\documents\visual studio 2015\Projects\Sobes\SObesClass\obj\Debug\SObesClass.pdb
